@@ -3,7 +3,7 @@ This repository contains notes on the topic of program construction, covering to
 
 ## 🎯 Learning Outcomes
 - 🛠️ Engineering aspects of program construction
-- 🧬 Object-oriented programming
+- [🧬 Object Oriented Programming](https://github.com/rajivaPavan/Program-Construction-Notes/tree/master/Object-Oriented%20Programming)
 - 💪 Use of strong typing in programming
 - 🤖 State machine representation
 - 🔁 Reusable program coding   
