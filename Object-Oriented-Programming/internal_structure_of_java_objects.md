@@ -1,6 +1,6 @@
-🤔 **Question:** What is the internal structure of Java objects?
+## 🤔 **Question:** What is the internal structure of Java objects?
 
-💡 **Answer:** Java objects contain metadata such as a class pointer, flags, a lock, and size information. 
+💡 Java objects contain metadata such as a class pointer, flags, a lock, and size information. 
 
 - 🏫 The class pointer is a pointer to the class information of the object, which includes its name, superclass, fields, methods, and other metadata. 
 - 🚩 Flags store various information about the object, such as whether it has been finalized or marked as "synchronized" for concurrent access control. 
